@@ -1,20 +1,3 @@
-
-// const fetchData= async (item)=>{
-//     const res= await axios.get("http://www.omdbapi.com/",{
-//         params:{
-//             apikey:'d9835cc5',
-//             s: item 
-//         }   
-//     }) 
-
-//     if (res.data.Error){
-//         return []; 
-//     }
-//     else {
-//         return res.data.Search; 
-//     }
-// };
-
 //debounce function to the delay the api request 
 const debounce= (functodelay, delaytime)=>{
     let timeoutId; 
