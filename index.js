@@ -29,7 +29,7 @@ function createAutoComplete({root,fetchData,renderOption,inputValue,onOptionSele
 
     //fetch movies
     const onType= async (e)=>{
-        const itemsList= await fetchData(e.target.value);
+        const itemsList= await fetchData(e.target.value.trim());
         
         if (itemsList.length===0){
             //hide the dropdown menu 
