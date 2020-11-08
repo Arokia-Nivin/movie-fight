@@ -5,5 +5,5 @@ This is a web application for entertainment. In this Application, you can search
 
 ## View Live App at 
 
-<a href="https://arokianivin09.github.io/moviefight/">:octocat: Weather App :octocat:</a> 
+<a href="https://arokianivin09.github.io/moviefight/">:octocat: Movie Fight App :octocat:</a> 
 
