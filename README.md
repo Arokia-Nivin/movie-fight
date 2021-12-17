@@ -6,4 +6,4 @@ This is a web application for entertainment. In this Application, you can search
 
 ## View Live App at
 
-<a href="https://EzioAuditore-daFirenze.github.io/movie-fight/">:octocat: Movie Fight App :octocat:</a>
+<a href="https://arokia-nivin.github.io/movie-fight/">:octocat: Movie Fight App :octocat:</a>
